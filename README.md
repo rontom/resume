@@ -23,7 +23,7 @@ Bash				**<big>+++++ +</big>**++++
 Javascript			**<big>+++++ </big>**+++++ 
 Matlab				**<big>+++++ +</big>**++++
 Nodejs				**<big>+++++ </big>**+++++
-PHP				**<big>+++++ ++</big>**+++ 
+PHP					**<big>+++++ ++</big>**+++ 
 Python				**<big>+++++ ++</big>**+++
 ...
 
@@ -32,7 +32,7 @@ Python				**<big>+++++ ++</big>**+++
 Mysql				**<big>+++++ +</big>**++++ 
 Oracle				**<big>+++++ </big>**+++++ 
 HTML				**<big>+++++ ++</big>**+++
-CSS				**<big>+++++ ++</big>**+++
+CSS					**<big>+++++ ++</big>**+++
 ...
 
 
