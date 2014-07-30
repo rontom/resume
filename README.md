@@ -82,10 +82,10 @@ CSS					**<big>+++++ ++</big>**+++
 
 
 #### 其他
------------------
-<pre>
-*   Kali Linux使用者（3年）、Vim爱好者、对Latex、Lingo、matlab等比较喜欢，准备着Latex编书
-*   喜欢 简洁、干净的设计
+-------------
+
+     *   Kali Linux使用者（3年）、Vim爱好者、对Latex、Lingo、matlab等比较喜欢，准备着Latex编书
+*   喜欢简洁、干净的设计
 *   编程或编写文档常使用Vim、SublimeText、IPython、Retext等程序
 *   使用git进行代码协作，使用SecureCRT远程服务支持
 *   现在开始投向Pyhton，对web.py、Django有一定的了解,能够使用flask进行基本的网站开发.
