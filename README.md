@@ -83,6 +83,7 @@ CSS					**<big>+++++ ++</big>**+++
 
 #### 其他
 -----------------
+<pre>
 *   Kali Linux使用者（3年）、Vim爱好者、对Latex、Lingo、matlab等比较喜欢，准备着Latex编书
 *   喜欢 简洁、干净的设计
 *   编程或编写文档常使用Vim、SublimeText、IPython、Retext等程序
