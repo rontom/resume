@@ -59,7 +59,7 @@ CSS					**<big>+++++ ++</big>**+++
 **个人技术博客**
      *   架构在Jekyll上开发的.[hacklang.me](http://www.hacklang.me)
 **一个Python评论系统**
-     *   准备转向Python开发，现在这个系统在完善.[akaros.net](http://www.akaros.net)           
+     *   准备转向Python开发，现在这个系统在完善.[akaros.net:5000](http://www.akaros.net:5000)           
 #### 其他
 -------------
      *   Kali Linux使用者（3年）、Vim爱好者、对Latex、Lingo、matlab等比较喜欢，准备着Latex编书
