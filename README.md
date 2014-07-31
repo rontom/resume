@@ -57,7 +57,7 @@ CSS					**<big>+++++ ++</big>**+++
      *  该系统主要针对海南省个市县的高层次人才信息进行统计，录入，方便人员查询。采用PHP编写的。
         基于B/S架构模式进行。该系统目前仍海南师范大学校网络中心维护下商用。
 **个人技术博客**
-     *   架构在Jekyll上开发的.[hacklang.me](http://www.hacklang.me)
+     *   架构在Jekyll上开发的.[hacklang.me](hacklang.me)
 **一个Python评论系统**
      *   准备转向Python开发，现在这个系统在完善.[akaros.net:5000](http://www.akaros.net:5000)           
 #### 其他
