@@ -49,7 +49,7 @@ CSS					**<big>+++++ ++</big>**+++
 ----------------
 **Wordpress主题定制开发及汉化**
      *   Wordpress 汉化及定制开发.主要负责帮客户Wordpress定制开发及汉化,同时兼做网站.一般采用php进行.
-         [个人文学博客网站](http://www.chinadream.me)是采用Wordpress的.
+         [个人文学博客网站](http://www.chinadream.me)是采用Wordpress的.[崇良](http://www.inidea.info)
 **海南百事通**
      *   协助学长开发此系统，参与集中的新闻管理的系统开发以及一些界面的开发工作，采用PHP进行.
          [海南百事通](http://www.hainan114.net/)
